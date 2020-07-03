@@ -1,0 +1,9 @@
+item.item_test.name=Test Item
+item.frite.name=Fries
+item.brownie.name=Brownie
+item.boc.name=Bucket of Cooking Oil
+item.pcanon.name=Potato Canon
+
+tile.block_test.name=Test Block
+tile.block_test2.name=Test Block2
+tile.cooking_oil_fluid.name= Cooking Oil
